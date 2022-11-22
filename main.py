@@ -60,6 +60,9 @@ def run_suave():
     elif 'joke' in command:
         talk(pyjokes.get_jokes())
         print(pyjokes.get_jokes())
+    elif 'tell a joke' in command:
+        talk(pyjokes.get_jokes())
+        print(pyjokes.get_jokes())
     elif 'name' in command:
         command = command.replace('what is your', '')
         talk('I am your, your and yours assistant')
