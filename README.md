@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @soevali
-- 👀 I’m interested in Python 
-- 🌱 I’m currently learning Python 
+- 👀 I’m interested in Web Developmant and App Development
+- 🌱 I’m currently learning Python, Html, Css, Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
